@@ -2,7 +2,7 @@ const fs = require("fs");
 const bodyParser = require("body-parser");
 const jsonServer = require("json-server");
 const jwt = require("jsonwebtoken");
-const PORT = process.env.PORT || 8000;
+const PORT = process.env.PORT || 3000;
 
 const server = jsonServer.create();
 const router = jsonServer.router("./database.json");
