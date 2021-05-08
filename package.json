@@ -4,8 +4,8 @@
   "description": "Simple Fake API",
   "main": "server.js",
   "scripts": {
-    "start": "json-server --watch ./database.json",
-    "start-auth": "node server.js"
+    "start": "node server.js",
+    "start-server": "json-server --watch ./database.json"
   },
   "author": "ME:)",
   "license": "ISC",
