@@ -1,1 +1,134 @@
-{}
+{
+  "products": [
+    {
+      "id": 1,
+      "slug": "accusamus-inventore-ea",
+      "name": "Tasty Wooden Fish",
+      "price": "966.00",
+      "star": 4,
+      "discount": 0,
+      "category": "Jewelery",
+      "brand": "Generic",
+      "image": "http://placeimg.com/640/480/city",
+      "color": "purple",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+    },
+    {
+      "id": 2,
+      "slug": "mollitia-dolorem-nisi",
+      "name": "Sleek Concrete Sausages",
+      "price": "720.00",
+      "star": 2,
+      "discount": 0,
+      "category": "Electronics",
+      "brand": "Incredible",
+      "image": "http://placeimg.com/640/480/sports",
+      "color": "orange",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+    },
+    {
+      "id": 3,
+      "slug": "enim-explicabo-iure",
+      "name": "Awesome Frozen Sausages",
+      "price": "988.00",
+      "star": 1,
+      "discount": 0,
+      "category": "Electronics",
+      "brand": "Refined",
+      "image": "http://placeimg.com/640/480/sports",
+      "color": "lime",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+    },
+    {
+      "id": 4,
+      "slug": "assumenda-eaque-occaecati",
+      "name": "Rustic Frozen Sausages",
+      "price": "702.00",
+      "star": 1,
+      "discount": 0,
+      "category": "Clothing",
+      "brand": "Awesome",
+      "image": "http://placeimg.com/640/480/cats",
+      "color": "sky blue",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
+    },
+    {
+      "id": 5,
+      "slug": "molestiae-ad-officia",
+      "name": "Sleek Soft Cheese",
+      "price": "373.00",
+      "star": 4,
+      "discount": 0,
+      "category": "Electronics",
+      "brand": "Refined",
+      "image": "http://placeimg.com/640/480/people",
+      "color": "purple",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+    },
+    {
+      "id": 6,
+      "slug": "eum-ut-eligendi",
+      "name": "Practical Concrete Tuna",
+      "price": "850.00",
+      "star": 3,
+      "discount": 0,
+      "category": "Baby",
+      "brand": "Handmade",
+      "image": "http://placeimg.com/640/480/abstract",
+      "color": "orange",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+    },
+    {
+      "id": 7,
+      "slug": "aut-accusantium-provident",
+      "name": "Handmade Concrete Keyboard",
+      "price": "870.00",
+      "star": 2,
+      "discount": 0,
+      "category": "Computers",
+      "brand": "Awesome",
+      "image": "http://placeimg.com/640/480/abstract",
+      "color": "salmon",
+      "description": "The Football Is Good For Training And Recreational Purposes"
+    },
+    {
+      "id": 8,
+      "slug": "et-commodi-dolorum",
+      "name": "Sleek Wooden Hat",
+      "price": "50.00",
+      "star": 0,
+      "discount": 0,
+      "category": "Home",
+      "brand": "Generic",
+      "image": "http://placeimg.com/640/480/fashion",
+      "color": "magenta",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+    },
+    {
+      "id": 9,
+      "slug": "sunt-omnis-beatae",
+      "name": "Licensed Wooden Salad",
+      "price": "951.00",
+      "star": 4,
+      "discount": 0,
+      "category": "Beauty",
+      "brand": "Gorgeous",
+      "image": "http://placeimg.com/640/480/city",
+      "color": "red",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+    },
+    {
+      "id": 10,
+      "slug": "enim-dolorum-et",
+      "name": "Handcrafted Metal Gloves",
+      "price": "393.00",
+      "star": 0,
+      "discount": 0,
+      "category": "Computers",
+      "brand": "Unbranded",
+      "image": "http://placeimg.com/640/480/business",
+      "color": "black",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
+    }
+  ]
+}
