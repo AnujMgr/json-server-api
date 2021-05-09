@@ -1,0 +1,191 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "slug": "neque-quis-minus",
+      "name": "Sleek Granite Pizza",
+      "price": "718.00",
+      "star": 1,
+      "discount": 0,
+      "category": "Beauty",
+      "brand": "Gorgeous",
+      "image": "http://placeimg.com/640/480/animals",
+      "color": "olive",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+    },
+    {
+      "id": 2,
+      "slug": "temporibus-aut-sint",
+      "name": "Rustic Fresh Pants",
+      "price": "868.00",
+      "star": 0,
+      "discount": 0,
+      "category": "Baby",
+      "brand": "Small",
+      "image": "http://placeimg.com/640/480/nightlife",
+      "color": "azure",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+    },
+    {
+      "id": 3,
+      "slug": "in-aut-delectus",
+      "name": "Awesome Frozen Computer",
+      "price": "810.00",
+      "star": 2,
+      "discount": 0,
+      "category": "Books",
+      "brand": "Practical",
+      "image": "http://placeimg.com/640/480/animals",
+      "color": "black",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+    },
+    {
+      "id": 4,
+      "slug": "velit-aut-nihil",
+      "name": "Ergonomic Fresh Towels",
+      "price": "547.00",
+      "star": 3,
+      "discount": 0,
+      "category": "Grocery",
+      "brand": "Small",
+      "image": "http://placeimg.com/640/480/food",
+      "color": "turquoise",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+    },
+    {
+      "id": 5,
+      "slug": "sequi-odio-est",
+      "name": "Gorgeous Fresh Pizza",
+      "price": "206.00",
+      "star": 4,
+      "discount": 0,
+      "category": "Home",
+      "brand": "Incredible",
+      "image": "http://placeimg.com/640/480/food",
+      "color": "azure",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+    },
+    {
+      "id": 6,
+      "slug": "voluptates-veniam-quis",
+      "name": "Handmade Granite Shoes",
+      "price": "842.00",
+      "star": 2,
+      "discount": 0,
+      "category": "Outdoors",
+      "brand": "Awesome",
+      "image": "http://placeimg.com/640/480/fashion",
+      "color": "red",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+    },
+    {
+      "id": 7,
+      "slug": "accusamus-necessitatibus-et",
+      "name": "Practical Concrete Computer",
+      "price": "856.00",
+      "star": 1,
+      "discount": 0,
+      "category": "Movies",
+      "brand": "Handmade",
+      "image": "http://placeimg.com/640/480/technics",
+      "color": "white",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
+    },
+    {
+      "id": 8,
+      "slug": "animi-necessitatibus-molestiae",
+      "name": "Incredible Cotton Computer",
+      "price": "807.00",
+      "star": 4,
+      "discount": 0,
+      "category": "Beauty",
+      "brand": "Refined",
+      "image": "http://placeimg.com/640/480/cats",
+      "color": "purple",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+    },
+    {
+      "id": 9,
+      "slug": "dolores-ab-quibusdam",
+      "name": "Handcrafted Fresh Computer",
+      "price": "801.00",
+      "star": 2,
+      "discount": 0,
+      "category": "Garden",
+      "brand": "Licensed",
+      "image": "http://placeimg.com/640/480/sports",
+      "color": "gold",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+    },
+    {
+      "id": 10,
+      "slug": "et-aliquid-maxime",
+      "name": "Refined Rubber Salad",
+      "price": "696.00",
+      "star": 2,
+      "discount": 0,
+      "category": "Baby",
+      "brand": "Awesome",
+      "image": "http://placeimg.com/640/480/animals",
+      "color": "olive",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "slug": "quasi-aut-dolor",
+      "name": "Electronics Accessories",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "image": "http://placeimg.com/640/480/technics"
+    },
+    {
+      "id": 2,
+      "slug": "quia-cum-pariatur",
+      "name": "TV and Home Appliance",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "image": "http://placeimg.com/640/480/cats"
+    },
+    {
+      "id": 3,
+      "slug": "sit-amet-rem",
+      "name": "Health and Beauty",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "image": "http://placeimg.com/640/480/fashion"
+    },
+    {
+      "id": 4,
+      "slug": "vel-est-rerum",
+      "name": "Home And Life Style",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "image": "http://placeimg.com/640/480/nightlife"
+    },
+    {
+      "id": 5,
+      "slug": "sapiente-corporis-eos",
+      "name": "Jwelery",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "image": "http://placeimg.com/640/480/sports"
+    },
+    {
+      "id": 6,
+      "slug": "est-aut-qui",
+      "name": "Clothing's",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "image": "http://placeimg.com/640/480/people"
+    },
+    {
+      "id": 7,
+      "slug": "vero-molestiae-nemo",
+      "name": "Sports and Outdoor",
+      "description": "The beautiful range of Apple Natural├⌐ that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "image": "http://placeimg.com/640/480/food"
+    },
+    {
+      "id": 8,
+      "slug": "fugiat-nostrum-accusamus",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "image": "http://placeimg.com/640/480/nightlife"
+    }
+  ]
+}
