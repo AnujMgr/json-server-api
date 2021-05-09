@@ -12,8 +12,18 @@ const categories = [
   "Clothing's",
   "Sports and Outdoor",
 ];
+const categorySlugs = [
+  "electronics",
+  "electronics-accessories",
+  "tv-and-home-appliance",
+  "health-and-beauty",
+  "home-and-life-style",
+  "jwelery",
+  "clothing's",
+  "sports-and-outdoor",
+];
 
-for (var i = 1; i <= 10; i++) {
+for (var i = 1; i <= 100; i++) {
   database.products.push({
     id: i,
     slug: faker.lorem.slug(),
@@ -21,7 +31,7 @@ for (var i = 1; i <= 10; i++) {
     price: faker.commerce.price(),
     star: Math.floor(Math.random() * 5) + 0,
     discount: 0,
-    category: faker.commerce.department(),
+    category: categorySlugs[Math.floor(Math.random() * 8) + 0],
     brand: faker.commerce.productAdjective(),
     image: faker.random.image(),
     color: faker.commerce.color(),
@@ -29,10 +39,10 @@ for (var i = 1; i <= 10; i++) {
   });
 }
 
-for (var i = 1; i <= 8; i++) {
+for (var i = 0; i < 8; i++) {
   database.categories.push({
     id: i,
-    slug: faker.lorem.slug(),
+    slug: categorySlugs[i],
     name: categories[i],
     description: faker.commerce.productDescription(),
     image: faker.random.image(),
