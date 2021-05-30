@@ -40,7 +40,7 @@ for (var i = 8; i < 20; i++) {
     name: faker.name.findName(),
     description: faker.commerce.productDescription(),
     image: faker.random.image(),
-    parentId: Math.floor(Math.random() * 8) + 0,
+    parentId: Math.floor(Math.random() * 8) + 1,
   });
 }
 
