@@ -29,7 +29,7 @@ for (var i = 0; i < 8; i++) {
     name: categories[i],
     description: faker.commerce.productDescription(),
     image: faker.random.image(),
-    parentId: null,
+    parentId: 0,
   });
 }
 
