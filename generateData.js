@@ -1,27 +1,10 @@
+const { fake } = require("faker");
 var faker = require("faker");
 
 var database = { products: [], categories: [] };
 
-const categories = [
-  "Electronics",
-  "Electronics Accessories",
-  "TV and Home Appliance",
-  "Health and Beauty",
-  "Home And Life Style",
-  "Jwelery",
-  "Clothing's",
-  "Sports and Outdoor",
-];
-const categorySlugs = [
-  "electronics",
-  "electronics-accessories",
-  "tv-and-home-appliance",
-  "health-and-beauty",
-  "home-and-life-style",
-  "jwelery",
-  "clothing's",
-  "sports-and-outdoor",
-];
+const categories = ["Men", "Women", "Kids", "Home and Living", "Beauty"];
+const categorySlugs = ["men", "women", "kids", "home-and-living", "beauty"];
 
 for (var i = 1; i <= 100; i++) {
   database.products.push({
@@ -46,6 +29,18 @@ for (var i = 0; i < 8; i++) {
     name: categories[i],
     description: faker.commerce.productDescription(),
     image: faker.random.image(),
+    parentId: null,
+  });
+}
+
+for (var i = 8; i < 20; i++) {
+  database.categories.push({
+    id: i,
+    slug: faker.lorem.slug(),
+    name: faker.name.findName(),
+    description: faker.commerce.productDescription(),
+    image: faker.random.image(),
+    parentId: Math.floor(Math.random() * 8) + 0,
   });
 }
 
