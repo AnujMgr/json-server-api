@@ -22,9 +22,9 @@ for (var i = 1; i <= 100; i++) {
   });
 }
 
-for (var i = 1; i < 9; i++) {
+for (var i = 0; i < 9; i++) {
   database.categories.push({
-    id: i,
+    id: i + 1,
     slug: categorySlugs[i],
     name: categories[i],
     description: faker.commerce.productDescription(),
@@ -33,7 +33,7 @@ for (var i = 1; i < 9; i++) {
   });
 }
 
-for (var i = 9; i < 25; i++) {
+for (var i = 10; i < 25; i++) {
   database.categories.push({
     id: i,
     slug: faker.lorem.slug(),
