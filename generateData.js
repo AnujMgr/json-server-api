@@ -22,7 +22,7 @@ for (var i = 1; i <= 100; i++) {
   });
 }
 
-for (var i = 0; i < 8; i++) {
+for (var i = 1; i < 9; i++) {
   database.categories.push({
     id: i,
     slug: categorySlugs[i],
@@ -33,7 +33,7 @@ for (var i = 0; i < 8; i++) {
   });
 }
 
-for (var i = 8; i < 20; i++) {
+for (var i = 9; i < 25; i++) {
   database.categories.push({
     id: i,
     slug: faker.lorem.slug(),
