@@ -1,0 +1,268 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "slug": "men",
+      "name": "Men",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "image": "http://placeimg.com/640/480/technics",
+      "parentId": 0
+    },
+    {
+      "id": 2,
+      "slug": "women",
+      "name": "Women",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "image": "http://placeimg.com/640/480/business",
+      "parentId": 0
+    },
+    {
+      "id": 3,
+      "slug": "kids",
+      "name": "Kids",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "image": "http://placeimg.com/640/480/animals",
+      "parentId": 0
+    },
+    {
+      "id": 4,
+      "slug": "home-and-living",
+      "name": "Home and Living",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "image": "http://placeimg.com/640/480/fashion",
+      "parentId": 0
+    },
+    {
+      "id": 5,
+      "slug": "beauty",
+      "name": "Beauty",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "image": "http://placeimg.com/640/480/fashion",
+      "parentId": 0
+    },
+    {
+      "id": 7,
+      "slug": "bottom-wear",
+      "name": "Bottom Wear",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "image": "http://placeimg.com/640/480/food",
+      "parentId": 1
+    },
+    {
+      "id": 8,
+      "slug": "inner-wear-and-sleep-wear",
+      "name": "Inner Wear and Sleep Wear",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "image": "http://placeimg.com/640/480/technics",
+      "parentId": 1
+    },
+    {
+      "id": 9,
+      "slug": "footwear",
+      "name": "Footwear",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "image": "http://placeimg.com/640/480/nightlife",
+      "parentId": 1
+    },
+    {
+      "id": 10,
+      "slug": "sports-and-active-wear-men",
+      "name": "Sports and Active Wear",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "image": "http://placeimg.com/640/480/city",
+      "parentId": 1
+    },
+    {
+      "id": 11,
+      "slug": "fashion-accessories",
+      "name": "Fashion Accessories",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "image": "http://placeimg.com/640/480/food",
+      "parentId": 1
+    },
+    {
+      "id": 12,
+      "slug": "fusion-wear",
+      "name": "Fusion Wear",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "image": "http://placeimg.com/640/480/nightlife",
+      "parentId": 2
+    },
+    {
+      "id": 13,
+      "slug": "western-wear",
+      "name": "Western Wear",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "image": "http://placeimg.com/640/480/people",
+      "parentId": 2
+    },
+    {
+      "id": 14,
+      "slug": "footwear",
+      "name": "Footwear",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "image": "http://placeimg.com/640/480/nightlife",
+      "parentId": 2
+    },
+    {
+      "id": 15,
+      "slug": "sports-and-active-wear-women",
+      "name": "Sports and Active Wear",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "image": "http://placeimg.com/640/480/sports",
+      "parentId": 2
+    },
+    {
+      "id": 16,
+      "slug": "lingerie-&-sleepwear",
+      "name": "Lingerie & Sleepwear",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "image": "http://placeimg.com/640/480/business",
+      "parentId": 2
+    },
+    {
+      "id": 17,
+      "slug": "beauty-&-personal-care",
+      "name": "Beauty & Personal Care",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "image": "http://placeimg.com/640/480/nature",
+      "parentId": 2
+    },
+    {
+      "id": 18,
+      "slug": "jewellery",
+      "name": "Jewellery",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "image": "http://placeimg.com/640/480/fashion",
+      "parentId": 2
+    },
+    {
+      "id": 19,
+      "slug": "boys-clothing",
+      "name": "Boys Clothing",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "image": "http://placeimg.com/640/480/nature",
+      "parentId": 3
+    },
+    {
+      "id": 20,
+      "slug": "girls-clothing",
+      "name": "Girls Clothing",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "image": "http://placeimg.com/640/480/abstract",
+      "parentId": 3
+    },
+    {
+      "id": 21,
+      "slug": "boys-footwear",
+      "name": "Boys Footwear",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "image": "http://placeimg.com/640/480/technics",
+      "parentId": 3
+    },
+    {
+      "id": 22,
+      "slug": "girls-footwear",
+      "name": "Girls Footwear",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "image": "http://placeimg.com/640/480/food",
+      "parentId": 3
+    },
+    {
+      "id": 23,
+      "slug": "bed-linen-&-furnishing",
+      "name": "Bed Linen & Furnishing",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "image": "http://placeimg.com/640/480/people",
+      "parentId": 5
+    },
+    {
+      "id": 24,
+      "slug": "flooring",
+      "name": "Flooring",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "image": "http://placeimg.com/640/480/nightlife",
+      "parentId": 5
+    },
+    {
+      "id": 25,
+      "slug": "bath",
+      "name": "Bath",
+      "description": "The beautiful range of Apple Natural├⌐ that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "image": "http://placeimg.com/640/480/business",
+      "parentId": 5
+    },
+    {
+      "id": 26,
+      "slug": "lamps-&-lighting",
+      "name": "Lamps & Lighting",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "image": "http://placeimg.com/640/480/food",
+      "parentId": 5
+    },
+    {
+      "id": 27,
+      "slug": "home-decor",
+      "name": "Home Decor",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "image": "http://placeimg.com/640/480/fashion",
+      "parentId": 5
+    },
+    {
+      "id": 28,
+      "slug": "kitchen-&-table",
+      "name": "Kitchen & Table",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "image": "http://placeimg.com/640/480/transport",
+      "parentId": 5
+    },
+    {
+      "id": 29,
+      "slug": "makeup",
+      "name": "Makeup",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "image": "http://placeimg.com/640/480/animals",
+      "parentId": 6
+    },
+    {
+      "id": 30,
+      "slug": "skincare-bath-&-body",
+      "name": "Skincare, Bath & Body",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "image": "http://placeimg.com/640/480/people",
+      "parentId": 6
+    },
+    {
+      "id": 31,
+      "slug": "haircare",
+      "name": "Haircare",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "image": "http://placeimg.com/640/480/nature",
+      "parentId": 6
+    },
+    {
+      "id": 32,
+      "slug": "fragrances",
+      "name": "Fragrances",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "image": "http://placeimg.com/640/480/technics",
+      "parentId": 6
+    },
+    {
+      "id": 33,
+      "slug": "appliances",
+      "name": "Appliances",
+      "description": "The beautiful range of Apple Natural├⌐ that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "image": "http://placeimg.com/640/480/transport",
+      "parentId": 6
+    },
+    {
+      "id": 34,
+      "slug": "men's-grooming",
+      "name": "Men's Grooming",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "image": "http://placeimg.com/640/480/sports",
+      "parentId": 6
+    }
+  ]
+}
